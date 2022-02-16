@@ -46,3 +46,7 @@ func Hellos(names []string) (map[string]string, error) {
 	}
 	return messages, nil
 }
+
+func test(){
+
+}
